@@ -1,0 +1,13 @@
+{
+	"home": {
+		"title": "Welcome, Test!",
+		"subtitle": "This is your Home Nigger",
+		"logged": {
+			"message": "You are logged in as user \"{{username}}\"."
+		},
+		"question": "If you have any question on Test:",
+		"link": {
+			"homepage": "home"
+		}
+	}
+}
